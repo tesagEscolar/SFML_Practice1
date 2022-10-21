@@ -2,3 +2,5 @@
 
 ## Pollito Draw project
 Drawing a cute baby chicken with SFML functions
+
+![My Image](.github/pollito.jpg)
